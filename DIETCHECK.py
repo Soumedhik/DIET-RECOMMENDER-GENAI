@@ -4,7 +4,7 @@
 # In[1]:
 
 
-GOOGLE_API_KEY="AIzaSyAK42G8RlWgw1Ahb02H2M2rLJlfQA-8oMQ"
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 
 
 # In[3]:
