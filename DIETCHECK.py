@@ -4,8 +4,7 @@
 # In[1]:
 
 
-GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
-
+google_api_key = st.secrets["google_api_key"]
 
 # In[3]:
 
